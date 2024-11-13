@@ -1,4 +1,4 @@
-# Classification d'Images Bruitées de Chiffres - MNIST
+# README pour Classification d'Images Bruitées de Chiffres - projet_MNIST
 ## Description
 Ce projet utilise des réseaux de neurones pour classifier des images de chiffres bruitées issues du jeu de données MNIST. Les modèles implémentés incluent des réseaux de neurones profonds (DNN) et des réseaux de neurones convolutifs (CNN), optimisés pour améliorer la précision de la classification.
 
